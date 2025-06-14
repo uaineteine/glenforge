@@ -48,10 +48,10 @@ To build the package locally, follow these steps:
    Output_directory: "path/to/output"
    ```
 
-2. **Run the Build Script**: Execute the `build.r` script to generate the package, update documentation, and increment the build number.
+2. **Run the Build Script**: Execute the `build.bat` file to generate the package, update documentation, and increment the build number. This batch file will automatically run the `build.r` script.
 
-   ```r
-   source("build.r")
+   ```bash
+   build.bat
    ```
 
 3. **Check the Output**: The built package and documentation will be placed in the directory specified in the `Output_directory` field of the manifest.
