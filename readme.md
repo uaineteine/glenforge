@@ -1,6 +1,6 @@
 # glenforge
 
-| A collection of custom R functions and utilities developed by Daniel SS for data analysis and statistical computing. | ![Icon](https://raw.githubusercontent.com/uaineteine/glenforge/refs/heads/master/icon/icon.png) |
+| A collection of custom R functions and utilities developed for API extracting software and shinyapps | ![Icon](https://raw.githubusercontent.com/uaineteine/glenforge/refs/heads/master/icon/icon.png) |
 |----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 
 **Author:** Daniel Stamer-Squair
