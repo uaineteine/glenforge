@@ -1,13 +1,7 @@
 # glenforge
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    A collection of custom R functions and utilities developed by Daniel SS for data analysis and statistical computing.
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/uaineteine/glenforge/refs/heads/master/icon/icon.png" alt="Icon" style="width: 128px; height: 128px;">
-  </div>
-</div>
+| A collection of custom R functions and utilities developed by Daniel SS for data analysis and statistical computing. | ![Icon](https://raw.githubusercontent.com/uaineteine/glenforge/refs/heads/master/icon/icon.png) |
+|----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 
 **Author:** Daniel Stamer-Squair
 
