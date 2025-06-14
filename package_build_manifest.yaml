@@ -1,0 +1,5 @@
+Package: glenforge
+Packageversion: 0.4.2
+BuildNo: 52
+Indev: no
+Output_directory: 'C:/Users/Daniel/Documents/Visual Studio 2017/Projects/Uaine Teine/Packages/R/glenforge/build/v{packageversion}'

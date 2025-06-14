@@ -1,0 +1,16 @@
+#VS related
+.vs/*
+
+#R related
+.Rhistory
+
+#auto generated from manifest
+packagespace/R/meta_auto.r
+
+#from roxygen2
+packagespace/NAMESPACE
+packagespace/man/*
+documentation/*
+
+build/*
+

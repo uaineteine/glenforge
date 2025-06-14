@@ -1,0 +1,13 @@
+configr
+curl
+rstudioapi
+parallel
+utils
+purrr
+stringr
+fs
+withr
+devtools
+roxygen2
+yaml
+tidyverse
