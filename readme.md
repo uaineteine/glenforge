@@ -13,7 +13,7 @@ You can install the development version of glenforge from GitHub using the `devt
 if (!require("devtools")) install.packages("devtools")
 
 # Install glenforge
-devtools::install_github("danielss/glenforge")
+devtools::install_github("uaineteine/glenforge")
 ```
 
 ## Dependencies
