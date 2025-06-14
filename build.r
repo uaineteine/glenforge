@@ -17,6 +17,7 @@ source("libs.r")
 packagemeta <- yaml.load_file('package_build_manifest.yaml')
 packageversion <- packagemeta$Packageversion
 packagemeta$Output_directory <- stringr::str_glue(packagemeta$Output_directory) # replace the placeholder with the actual R version
+packagemeta$Output_directory <- normalizePath(packagemeta$Output_directory, winslash = "/")
 
 # create directory if necessary
 fs::dir_create(packagemeta$Output_directory)

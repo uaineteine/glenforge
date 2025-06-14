@@ -34,6 +34,28 @@ This package requires the following R packages:
 - yaml
 - tidyverse
 
+## Building the Package
+
+To build the package locally, follow these steps:
+
+1. **Update the Manifest File**: Before building, ensure that the `package_build_manifest.yaml` file is correctly configured. This file contains metadata about the package, such as the version and build number. You can update the `Packageversion` and `BuildNo` fields as needed.
+
+   Example:
+   ```yaml
+   Package: glenforge
+   Packageversion: 1.0.0
+   BuildNo: 1
+   Output_directory: "path/to/output"
+   ```
+
+2. **Run the Build Script**: Execute the `build.r` script to generate the package, update documentation, and increment the build number.
+
+   ```r
+   source("build.r")
+   ```
+
+3. **Check the Output**: The built package and documentation will be placed in the directory specified in the `Output_directory` field of the manifest.
+
 ## Documentation
 
 For detailed documentation of all functions, please refer to the package manual which is generated using roxygen2.

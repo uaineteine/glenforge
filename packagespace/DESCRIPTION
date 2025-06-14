@@ -4,7 +4,7 @@ Title: Daniel SS - Custom R Library
 Description: A collection of custom R functions and utilities developed by Daniel SS for data analysis and statistical computing.
 Author: Daniel Stamer-Squair
 Maintainer: Daniel Stamer-Squair <daniel.stamer-squair@example.com>
-Version: 0.4.1
+Version: 0.4.3
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
